@@ -29,6 +29,11 @@ class KFSalesController extends Controller
         //
     }
 
+    public function showbyid()
+    {
+        //
+    }
+
     /**
      * Store a newly created resource in storage.
      *
